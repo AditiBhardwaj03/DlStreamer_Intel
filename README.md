@@ -1,5 +1,7 @@
 # DlStreamer_Intel
-[Project Video Link]([https://drive.google.com/your_shared_link](https://drive.google.com/file/d/1kpPGygTYvRxCiVsfyu8S9FC8wlyegLtB/view?usp=drive_link)
+
+🎥 [Project Video Link](https://drive.google.com/file/d/1kpPGygTYvRxCiVsfyu8S9FC8wlyegLtB/view?usp=drive_link)
+
 
 #  DL Streamer Pipeline for Object Detection & Classification
 
